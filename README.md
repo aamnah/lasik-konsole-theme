@@ -1,6 +1,6 @@
 # Lasik
 
-Lasik super dark theme palette for [Konsole](https://konsole.kde.org/)
+Lasik super dark theme color scheme for [Konsole](https://konsole.kde.org/)
 
 [Figma file](https://www.figma.com/design/JVCY3qeWGMMbNTczHdBMaz/Lasik---VS-Code-theme?node-id=2017-1263&t=eIuGryfLXox4feHB-1)
 
