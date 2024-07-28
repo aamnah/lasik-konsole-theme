@@ -4,7 +4,7 @@ Lasik super dark theme color scheme for [Konsole](https://konsole.kde.org/)
 
 [Figma file](https://www.figma.com/design/JVCY3qeWGMMbNTczHdBMaz/Lasik---VS-Code-theme?node-id=2017-1263&t=eIuGryfLXox4feHB-1)
 
-See other Lasik versions
+See other Lasik ports
 
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=AmnaAkram.lasik)
 
