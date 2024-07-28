@@ -6,14 +6,16 @@ See other Lasik versions
 
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=AmnaAkram.lasik)
 
-### Installation
+## Installation
 
 Themes for Konsole live under the `~/.local/share/konsole/` directory. Download the `Lasik.colorscheme` file to that folder and update Konsole profile to use that color scheme.
 
 _Settings > Edit Current Profile... > Appearance > Color scheme & font > Lasik_
 
+![konsole appearance settings](./images/konsole-settings.png)
 
-### Palette
+
+## Palette
 
 ![lasik color palette](./images/palette.png)
 
